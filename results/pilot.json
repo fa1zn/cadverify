@@ -1,0 +1,259 @@
+[
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 0,
+  "ok": false,
+  "err": "no result variable\n"
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 1,
+  "ok": false,
+  "err": "no result variable\n"
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 2,
+  "ok": true,
+  "vol": 42.70795234553032,
+  "shape": 1.565998249717055
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 3,
+  "ok": false,
+  "err": "no result variable\n"
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 4,
+  "ok": true,
+  "vol": 43.12558625116008,
+  "shape": 2.2687996305255496
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 5,
+  "ok": false,
+  "err": "no result variable\n"
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 6,
+  "ok": true,
+  "vol": 53.08816955441272,
+  "shape": 1.7430180528401409
+ },
+ {
+  "task": "9c0e7e7f-9e1a-b47d-95c1-1ce859b09327",
+  "i": 7,
+  "ok": true,
+  "vol": 52.27577665340123,
+  "shape": 1.7533497239034757
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 0,
+  "ok": true,
+  "vol": 43.172552939306165,
+  "shape": 2.6101575124747716
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 1,
+  "ok": false,
+  "err": "yed/normal/cadverify/.venv/lib/python3.12/site-packages/build123d/topology/three"
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 2,
+  "ok": true,
+  "vol": 47.75035951702519,
+  "shape": 2.4871729799619704
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 3,
+  "ok": true,
+  "vol": 9.601931708464262,
+  "shape": 1.7970812124951192
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 4,
+  "ok": true,
+  "vol": 32.059327895124575,
+  "shape": 2.3961913044121106
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 5,
+  "ok": false,
+  "err": "yed/normal/cadverify/.venv/lib/python3.12/site-packages/build123d/topology/three"
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 6,
+  "ok": true,
+  "vol": 39.2981257307731,
+  "shape": 2.5764978289429696
+ },
+ {
+  "task": "14a5a205-27d1-120e-af2b-7f21d975c7de",
+  "i": 7,
+  "ok": true,
+  "vol": 55.03186767248294,
+  "shape": 2.6687732724071864
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 0,
+  "ok": true,
+  "vol": 3.7996107474226783,
+  "shape": 1.9084064668316643
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 1,
+  "ok": true,
+  "vol": 28.8779500697271,
+  "shape": 2.4832413616469506
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 2,
+  "ok": true,
+  "vol": 33.24616534097713,
+  "shape": 3.1210877929901972
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 3,
+  "ok": true,
+  "vol": 46.56565355586303,
+  "shape": 1.823238444644696
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 4,
+  "ok": true,
+  "vol": 7.502876118696531,
+  "shape": 2.4646884200833505
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 5,
+  "ok": true,
+  "vol": 40.864122294823666,
+  "shape": 2.301342846115299
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 6,
+  "ok": true,
+  "vol": 5.387451144929892,
+  "shape": 1.9688677998986441
+ },
+ {
+  "task": "43eecc11-9758-4d90-d3ab-79007ab58e64",
+  "i": 7,
+  "ok": false,
+  "err": "api:APIStatusError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 0,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 1,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 2,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 3,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 4,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 5,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 6,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "6d12bdc1-ed0a-c9c6-42d5-6257791dbcc2",
+  "i": 7,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 0,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 1,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 2,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 3,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 4,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 5,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 6,
+  "ok": false,
+  "err": "api:BadRequestError"
+ },
+ {
+  "task": "0d6ddabd-abb8-931e-57ea-bbcd6c512130",
+  "i": 7,
+  "ok": false,
+  "err": "api:BadRequestError"
+ }
+]

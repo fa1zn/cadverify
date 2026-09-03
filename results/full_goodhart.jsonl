@@ -1,0 +1,503 @@
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": -1, "ok": true, "A": -1.0526315801681912e-06, "B": -2.3599416912781583, "vol": 3.227246561036645e-14, "bbox": 1.0526315801681912e-06, "mass": 2.2177982009438802e-13, "passA": true, "cand": "exploit"}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 1, "ok": true, "A": -78.40761947736797, "B": -1.190474009460723, "vol": 78.40761947736753, "bbox": 0.03239042302746597, "mass": 78.40761947736797, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 3, "ok": true, "A": -73.86147137128745, "B": -1.0340881847127008, "vol": 73.86147137128701, "bbox": 0.03239042302746597, "mass": 73.86147137128745, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 4, "ok": true, "A": -41.09135119951509, "B": -1.2691556611726118, "vol": 41.091351199514726, "bbox": 2.7965262058012266e-06, "mass": 41.09135119951509, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 2, "ok": true, "A": -118.13401629712683, "B": -1.1069055844674858, "vol": 118.13401629712628, "bbox": 0.03239042302746597, "mass": 118.13401629712683, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 0, "ok": true, "A": -105.9808630690124, "B": -1.2356302252885711, "vol": 105.98086306901189, "bbox": 0.03239042302746597, "mass": 105.9808630690124, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 7, "ok": true, "A": -126.75341552198883, "B": -1.3205457854953773, "vol": 126.75341552198827, "bbox": 0.05624148976061373, "mass": 126.75341552198883, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 6, "ok": true, "A": -40.218941855444946, "B": -1.182642886671213, "vol": 40.2189418554446, "bbox": 0.03239042302746597, "mass": 40.218941855444946, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 5, "ok": true, "A": -106.3038748115839, "B": -1.184349420146767, "vol": 106.30387481158341, "bbox": 0.03239042302746597, "mass": 106.3038748115839, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 12, "ok": true, "A": -91.30253978499633, "B": -1.2126059123752735, "vol": 91.30253978499584, "bbox": 0.03239042302746597, "mass": 91.30253978499633, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 11, "ok": true, "A": -55.42320410790027, "B": -1.2746413985634486, "vol": 55.42320410789987, "bbox": 0.03239042302746597, "mass": 55.42320410790027, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 8, "ok": true, "A": -45.69318051328717, "B": -1.3154499525254322, "vol": 45.693180513286805, "bbox": 0.03239197589290689, "mass": 45.69318051328717, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 9, "ok": true, "A": -59.20691953523646, "B": -1.2030149689034308, "vol": 59.20691953523606, "bbox": 2.7965121819319813e-06, "mass": 59.20691953523646, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 10, "ok": true, "A": -126.86198637232569, "B": -1.5519901163591059, "vol": 126.8619863723251, "bbox": 0.03239042302746597, "mass": 126.86198637232569, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 14, "ok": true, "A": -87.07545805928942, "B": -1.1600820246393553, "vol": 87.07545805928895, "bbox": 2.7965262058012266e-06, "mass": 87.07545805928942, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 13, "ok": true, "A": -60.65777614378527, "B": -1.2469669840137716, "vol": 60.65777614378487, "bbox": 0.03239042302746597, "mass": 60.65777614378527, "passA": false}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 15, "ok": false, "err": "api:APIStatusError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": -1, "ok": true, "A": -1.3333333252300386e-06, "B": -2.517553124631073, "vol": 1.7481877977374883e-14, "bbox": 1.3333333252300386e-06, "mass": 1.2646034416503821e-14, "passA": true, "cand": "exploit"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": -1, "ok": true, "A": -7.352941262397776e-07, "B": -8.471191126485273, "vol": 5.0408463448686616e-14, "bbox": 7.352941262397776e-07, "mass": 5.469668342956447e-14, "passA": true, "cand": "exploit"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": -1, "ok": true, "A": -1.2499999257897798e-07, "B": -8.242089287439992, "vol": 4.099131050244184e-14, "bbox": 1.2499999257897798e-07, "mass": 3.953637201238603e-14, "passA": true, "cand": "exploit"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": -1, "ok": true, "A": -3.703703746985546e-07, "B": -10.788000872057841, "vol": 3.9597048240454017e-13, "bbox": 3.703703746985546e-07, "mass": 4.0639386940653075e-13, "passA": true, "cand": "exploit"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": -1, "ok": true, "A": -2.352941036780762e-07, "B": -2.681025453494535, "vol": 1.5862559180669684e-14, "bbox": 2.352941036780762e-07, "mass": 1.1474652185090918e-14, "passA": true, "cand": "exploit"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": -1, "ok": true, "A": -4.395604446971857e-07, "B": -7.110221823106831, "vol": 0.0, "bbox": 4.395604446971857e-07, "mass": 0.0, "passA": true, "cand": "exploit"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": -1, "ok": true, "A": -1.333333254175765e-07, "B": -3.1920854179147917, "vol": 3.134710786319349e-13, "bbox": 1.333333254175765e-07, "mass": 2.976206529979851e-13, "passA": true, "cand": "exploit"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "4c8765b5-7815-cd41-d0bf-8170d48a9398", "title": "Tabbed U-Notch Panel Plate", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": -1, "ok": true, "A": -3.448275902365853e-07, "B": -7.288528578754263, "vol": 0.0, "bbox": 3.448275902365853e-07, "mass": 0.0, "passA": true, "cand": "exploit"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "4d045f2a-9ab6-820b-9ec5-e3dd20292d02", "title": "Multi-Cutout Bore Mounting Block", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": -1, "ok": true, "A": -1.9704432327720668e-07, "B": -3.2707161809238077, "vol": 2.994124978670563e-13, "bbox": 1.9704432327720668e-07, "mass": 2.9780973999363594e-13, "passA": true, "cand": "exploit"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "065c4ca9-e5d9-9111-cc59-5092a66da283", "title": "Dual-Level Slotted Mounting Tray", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": -1, "ok": true, "A": -1.2499999257897798e-07, "B": -7.315120653628056, "vol": 8.58285026235894e-14, "bbox": 1.2499999257897798e-07, "mass": 4.6564942829638406e-14, "passA": true, "cand": "exploit"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "1bd8d156-247c-0370-07d8-133bab3b03c4", "title": "Gusseted Bearing Support Mount", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": -1, "ok": true, "A": -5.714285781063413e-07, "B": -7.018509741219396, "vol": 2.3554411182205976e-14, "bbox": 5.714285781063413e-07, "mass": 1.7038781237128162e-14, "passA": true, "cand": "exploit"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "8b631f2d-9543-c99b-0da7-a333901c8bc8", "title": "Right-Angle Four-Bore Pedestal Mounting Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": -1, "ok": true, "A": -3.076923085551733e-06, "B": -5.296338998359222, "vol": 1.3398566614215208e-13, "bbox": 3.076923085551733e-06, "mass": 1.3569150216942483e-13, "passA": true, "cand": "exploit"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "b23ec4b3-7514-0fc9-4139-dc9bd34eacd3", "title": "Angled Pivot Link", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": -1, "ok": true, "A": -1.3333333252300386e-06, "B": -6.8724118093380735, "vol": 3.196381762475928e-14, "bbox": 1.3333333252300386e-06, "mass": 1.5029283460715826e-13, "passA": true, "cand": "exploit"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "80f67545-d9be-12b8-a90b-4316a53ffe89", "title": "Right-Angle Dual-Bore Stepped Clevis Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": -1, "ok": true, "A": -4.0816327007595813e-07, "B": -3.3647119132056327, "vol": 1.0302240869640249e-13, "bbox": 4.0816327007595813e-07, "mass": 1.1178646776953395e-13, "passA": true, "cand": "exploit"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "81ab25d1-0330-5a98-73fa-678d173af688", "title": "Stepped Dual-Pedestal Mounting Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": -1, "ok": true, "A": -2.597402443199542e-07, "B": -1.6972363377935764, "vol": 5.788207424583458e-13, "bbox": 2.597402443199542e-07, "mass": 5.861899880220517e-13, "passA": true, "cand": "exploit"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "98d28e99-6706-09e2-0308-aef6239e1b3f", "title": "Diamond Tabbed Cover Plate", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": -1, "ok": true, "A": -8.000000093488779e-07, "B": -8.065443725630708, "vol": 2.4630865315448295e-14, "bbox": 8.000000093488779e-07, "mass": 3.5634932458692555e-14, "passA": true, "cand": "exploit"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "2dbb7327-ba42-18de-a041-8dc248e54eec", "title": "Right-Angle Multi-Bore Clamping Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": -1, "ok": true, "A": -2.222222208716731e-06, "B": -0.22737467896210553, "vol": 3.582009902367225e-14, "bbox": 2.222222208716731e-06, "mass": 3.8867294947561037e-14, "passA": true, "cand": "exploit"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "59b997b5-e0a5-e56c-4bb2-da4f5a69f812", "title": "Perforated Elongated Mounting Rail", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": -1, "ok": true, "A": -4.5454545985731703e-07, "B": -2.7253050916557315, "vol": 1.53744482074663e-14, "bbox": 4.5454545985731703e-07, "mass": 1.1121562650076894e-14, "passA": true, "cand": "exploit"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "12ec8e0a-f55f-8f68-4270-ce49bcdd7038", "title": "Recessed Cavity Enclosure Box", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": -1, "ok": true, "A": -1.6666666565375483e-06, "B": -0.523923219302125, "vol": 0.0, "bbox": 1.6666666565375483e-06, "mass": 0.0, "passA": true, "cand": "exploit"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "f8272f36-22c7-2405-92d1-bee9f4c4819b", "title": "Triple-Slot Multi-Bore Base Plate", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": -1, "ok": true, "A": -1.6666666565375483e-06, "B": -1.164776389918428, "vol": 1.8513887058990904e-14, "bbox": 1.6666666565375483e-06, "mass": 1.3392568763737632e-14, "passA": true, "cand": "exploit"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "d3c2a5e8-e871-b545-bf64-268b132c807d", "title": "Notched Slotted Base Plate", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": -1, "ok": true, "A": -5.88235300991822e-07, "B": -3.7369813734265502, "vol": 5.5581437969412664e-14, "bbox": 5.88235300991822e-07, "mass": 4.0206480012595965e-14, "passA": true, "cand": "exploit"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "9af39062-f1f9-3175-3bab-d871461db328", "title": "Slotted Square Bore Frame", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": -1, "ok": true, "A": -2.105263145100061e-06, "B": -0.44081275307999185, "vol": 3.0468834230248856e-14, "bbox": 2.105263145100061e-06, "mass": 2.2040534020723996e-14, "passA": true, "cand": "exploit"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "cdffec9b-e59c-6109-ae0a-dfee308b0d2d", "title": "Angled Tip Multi-Slot Support Rod", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": -1, "ok": true, "A": -2.2222220902929416e-07, "B": -3.803976566196942, "vol": 4.169603217297092e-13, "bbox": 2.2222220902929416e-07, "mass": 4.279362378421204e-13, "passA": true, "cand": "exploit"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 1, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 0, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 3, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 5, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 4, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 2, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 7, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 8, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 9, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 6, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 10, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 11, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 12, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 13, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 14, "ok": false, "err": "api:BadRequestError"}
+{"task": "31d0a0e3-aecc-89b9-54b7-172117727125", "title": "Dual-Lug Clamp Bracket", "i": 15, "ok": false, "err": "api:BadRequestError"}
+{"task": "4df7f97c-642e-df9d-d673-db2f75e87b48", "title": "Angled Bore Tubular Sleeve", "i": 15, "repaired": false, "ok": true, "A": -79.984692642202, "B": -1.2002140568296884, "vol": 79.98469264220155, "bbox": 0.03239042302746597, "mass": 79.984692642202, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 2, "repaired": false, "ok": true, "A": -313.3333346666667, "B": -1.6626599878845416, "vol": 17.13686529533583, "bbox": 313.3333346666667, "mass": 17.136865295335838, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 1, "repaired": false, "ok": true, "A": -313.3333346666667, "B": -2.5646740285993554, "vol": 1.6334123571341557, "bbox": 313.3333346666667, "mass": 1.6334123571341446, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 7, "repaired": false, "ok": true, "A": -313.3333346666667, "B": -2.845251486642726, "vol": 5.42400617833501, "bbox": 313.3333346666667, "mass": 5.424006178335016, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 4, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.5962667143192726, "vol": 16.386708848177516, "bbox": 123.33333466666667, "mass": 16.386708848177538, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 0, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.5258708311376112, "vol": 13.434864532987788, "bbox": 123.33333466666667, "mass": 13.434864532987795, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 5, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.8311046575414005, "vol": 5.110333148163339, "bbox": 123.33333466666667, "mass": 5.110333148163336, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 6, "repaired": false, "ok": true, "A": -313.3333346666667, "B": -1.5666881325647353, "vol": 6.8328711657685, "bbox": 313.3333346666667, "mass": 6.832871165768505, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 3, "repaired": false, "ok": true, "A": -313.3333346666667, "B": -1.582847219941582, "vol": 17.532136949963803, "bbox": 313.3333346666667, "mass": 17.532136949963803, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 12, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.7335826725060948, "vol": 15.955833757763893, "bbox": 123.33333466666667, "mass": 15.955833757763916, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 10, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.581165794886588, "vol": 10.436907686672663, "bbox": 123.33333466666667, "mass": 10.436907686672672, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 9, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -2.86742390076626, "vol": 5.51761885123764, "bbox": 123.33333466666667, "mass": 5.5176188512376445, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 8, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.6778971491857329, "vol": 17.67455123376876, "bbox": 123.33333466666667, "mass": 17.67455123376878, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 13, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.557961781025565, "vol": 13.043191077808688, "bbox": 123.33333466666667, "mass": 13.043191077808697, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 11, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.217476344242513, "vol": 9.386560358882411, "bbox": 123.33333466666667, "mass": 9.386560358882422, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 15, "repaired": false, "ok": true, "A": -123.33333466666667, "B": -1.5921115507585657, "vol": 19.812198445547626, "bbox": 123.33333466666667, "mass": 19.812198445547626, "passA": false}
+{"task": "189f899d-802d-b686-6e07-944c151312d9", "title": "Notched Stepped Rail Bracket", "i": 14, "repaired": true, "ok": true, "A": -123.33333466666667, "B": -2.7785647669461007, "vol": 15.111021413959449, "bbox": 123.33333466666667, "mass": 15.111021413959472, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 5, "repaired": false, "ok": true, "A": -176.8863472489182, "B": -7.06983314770953, "vol": 176.8863472489182, "bbox": 7.14285642857142, "mass": 176.8863472489182, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 3, "repaired": true, "ok": true, "A": -77.61795178937673, "B": -5.41055066485333, "vol": 77.61795178937673, "bbox": 32.142857857142864, "mass": 77.61795178937672, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 0, "repaired": true, "ok": true, "A": -87.72062399702433, "B": -4.688240486507017, "vol": 87.72062399702433, "bbox": 7.14285642857142, "mass": 87.72062399702432, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 4, "repaired": true, "ok": true, "A": -131.31412099323623, "B": -5.730120052819452, "vol": 131.31412099323623, "bbox": 32.142857857142864, "mass": 131.31412099323623, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 1, "repaired": true, "ok": true, "A": -83.24462527451844, "B": -3.4131479438062398, "vol": 83.24462527451844, "bbox": 7.14285642857142, "mass": 83.24462527451844, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 6, "repaired": true, "ok": true, "A": -63.14644792754649, "B": -5.297660402672735, "vol": 63.14644792754649, "bbox": 7.14285642857142, "mass": 63.14644792754649, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 7, "repaired": true, "ok": true, "A": -131.21641515597307, "B": -6.510000069052479, "vol": 131.21641515597307, "bbox": 7.14285642857142, "mass": 131.21641515597307, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 2, "repaired": true, "ok": true, "A": -63.750238958542674, "B": -5.371280799103699, "vol": 63.75023895854266, "bbox": 7.14285642857142, "mass": 63.750238958542674, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 8, "repaired": true, "ok": true, "A": -73.77698331223378, "B": -4.193556378594457, "vol": 73.77698331223377, "bbox": 7.14285642857142, "mass": 73.77698331223378, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 9, "repaired": true, "ok": true, "A": -144.28750187626213, "B": -5.94999810665826, "vol": 144.2875018762621, "bbox": 7.14285642857142, "mass": 144.28750187626213, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 15, "repaired": false, "ok": true, "A": -66.91209686646985, "B": -5.04862712755536, "vol": 66.91209686646985, "bbox": 7.14285642857142, "mass": 66.91209686646985, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 10, "repaired": true, "ok": true, "A": -182.0311304514059, "B": -7.1270787176189145, "vol": 182.0311304514059, "bbox": 7.14285642857142, "mass": 182.03113045140586, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 12, "repaired": true, "ok": true, "A": -7.14285642857142, "B": -4.233688645454127, "vol": 3.7945291020000043, "bbox": 7.14285642857142, "mass": 3.7945291019999994, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 14, "repaired": true, "ok": true, "A": -202.5348498279321, "B": -6.619152893644767, "vol": 202.53484982793205, "bbox": 7.14285642857142, "mass": 202.5348498279321, "passA": false}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 11, "ok": false, "repaired": true, "err": "exec2:    raise ValueError(\"Cannot subtract shape from empty compound\")\nValueError: Cannot subtract shape from empty compound\n"}
+{"task": "1ada49e6-5cf6-2f80-b2fa-cc3b749892c8", "title": "Offset Slide Clamp Block", "i": 13, "ok": false, "repaired": true, "err": "exec2:no result\n"}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 1, "repaired": false, "ok": true, "A": -21.17724847937542, "B": -1.0476793092947154, "vol": 21.177248479375418, "bbox": 12.499999875000007, "mass": 21.17724847937542, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 0, "repaired": false, "ok": true, "A": -46.87499987500001, "B": -1.080329174771362, "vol": 21.928629932841456, "bbox": 46.87499987500001, "mass": 21.928629932841453, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 6, "repaired": false, "ok": true, "A": -34.37499987500001, "B": -0.9573763327750827, "vol": 17.629401651288955, "bbox": 34.37499987500001, "mass": 17.62940165128895, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 7, "repaired": false, "ok": true, "A": -34.37499987500001, "B": -1.4771984076220788, "vol": 10.277363218307116, "bbox": 34.37499987500001, "mass": 10.277363218307107, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 4, "repaired": false, "ok": true, "A": -17.563029975508872, "B": -0.5112514305237041, "vol": 17.563029975508872, "bbox": 7.042253474178393, "mass": 17.56302997550887, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 5, "repaired": false, "ok": true, "A": -34.37499987500001, "B": -1.5086215839240078, "vol": 10.413255057880463, "bbox": 34.37499987500001, "mass": 10.413255057880452, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 12, "repaired": false, "ok": true, "A": -46.874999875, "B": -1.1696842503823877, "vol": 21.891562775052094, "bbox": 46.874999875, "mass": 21.891562775052094, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 9, "repaired": false, "ok": true, "A": -18.424096091223596, "B": -1.1848561345989255, "vol": 18.424096091223596, "bbox": 12.499999875000007, "mass": 18.424096091223596, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 8, "repaired": false, "ok": true, "A": -17.52652555382999, "B": -0.48942435330594547, "vol": 17.52652555382999, "bbox": 7.042253474178393, "mass": 17.526525553829984, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 3, "repaired": false, "ok": true, "A": -20.055582405211467, "B": -1.1674913211073283, "vol": 20.055582405211464, "bbox": 15.624999875000006, "mass": 20.055582405211467, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 10, "repaired": false, "ok": true, "A": -34.37499987500001, "B": -1.2526624282834697, "vol": 21.17724847937546, "bbox": 34.37499987500001, "mass": 21.17724847937546, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 2, "repaired": false, "ok": true, "A": -22.104686270869653, "B": -1.0186332913561431, "vol": 22.104686270869653, "bbox": 12.499999875000007, "mass": 22.10468627086965, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 11, "repaired": false, "ok": true, "A": -49.999999875, "B": -1.0205670329426124, "vol": 21.624915810500063, "bbox": 49.999999875, "mass": 21.624915810500067, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 13, "repaired": false, "ok": true, "A": -13.766937093254445, "B": -0.7640512587026598, "vol": 13.766937093254445, "bbox": 7.042253474178393, "mass": 13.766937093254441, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 14, "repaired": false, "ok": true, "A": -43.749999875, "B": -1.26812020117068, "vol": 11.581540224732825, "bbox": 43.749999875, "mass": 11.581540224732828, "passA": false}
+{"task": "591d5702-b5fc-8fa3-7b18-f94aab3ef61c", "title": "Elongated Flanged Arm Bracket", "i": 15, "repaired": false, "ok": true, "A": -37.49999987500001, "B": -1.1689348515618263, "vol": 30.33614069382311, "bbox": 37.49999987500001, "mass": 30.33614069382311, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 1, "repaired": false, "ok": true, "A": -25.00000027777778, "B": -0.7790951474171746, "vol": 8.364444964694053, "bbox": 25.00000027777778, "mass": 8.364444964694043, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 5, "ok": false, "repaired": true, "err": "exec2:odule>\n    exec(open(sys.argv[1]).read(), ns)\n  File \"<string>\", line 1\n    ```python\n    ^\nSyntaxError: invalid syntax\n"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 8, "ok": false, "repaired": true, "err": "repair:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 0, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 6, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 2, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 3, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 7, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 4, "ok": false, "err": "api:RemoteProtocolError: peer closed connection without sending complete message body (incomplete chunked read)"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 13, "repaired": true, "ok": true, "A": -36.20618509940778, "B": -0.2758457935990417, "vol": 14.210149445007417, "bbox": 36.20618509940778, "mass": 14.210149445007424, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 9, "repaired": true, "ok": true, "A": -43.61111088888889, "B": -3.5694326281516484, "vol": 17.971030800321248, "bbox": 43.61111088888889, "mass": 17.971030800321234, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 15, "repaired": true, "ok": true, "A": -0.2608126043897155, "B": -0.04842187160019598, "vol": 0.2608126043897155, "bbox": 3.703737695138477e-07, "mass": 0.26081260438971166, "passA": true}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 11, "repaired": true, "ok": true, "A": -34.52832028406269, "B": -4.44792176988388, "vol": 34.52832028406269, "bbox": 3.1250002777829717, "mass": 34.52832028406269, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 14, "repaired": true, "ok": true, "A": -44.44444422222222, "B": -1.877225344588159, "vol": 22.737283902963608, "bbox": 44.44444422222222, "mass": 22.737283902963615, "passA": false}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 12, "ok": false, "repaired": true, "err": "exec2:n TopoDS.Face(sf_f.Result())\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\nOCP.OCP.Standard.Standard_TypeMismatch: TopoDS::Face\n"}
+{"task": "c7d1924c-a4cd-9b5c-544d-b57c3ff7187f", "title": "Curved Rail Mounting Bracket", "i": 10, "repaired": true, "ok": true, "A": -25.00000027777778, "B": -0.5290759389737234, "vol": 4.373143264502013, "bbox": 25.00000027777778, "mass": 4.373143264502007, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 0, "repaired": false, "ok": true, "A": -4.425155407262358, "B": -0.7787275435327098, "vol": 4.425155407262358, "bbox": 2.352941203967288e-07, "mass": 4.42515540726235, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 2, "repaired": false, "ok": true, "A": -8.091131628184282, "B": -0.6299866778357855, "vol": 8.091131628184282, "bbox": 2.352941203967288e-07, "mass": 8.09113162818428, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 3, "repaired": false, "ok": true, "A": -0.8003803497255596, "B": -0.591602390559671, "vol": 0.8003803497255499, "bbox": 2.352941203967288e-07, "mass": 0.8003803497255596, "passA": true}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 1, "repaired": false, "ok": true, "A": -25.347766239805726, "B": -0.6952518741373246, "vol": 25.347766239805726, "bbox": 2.352941203967288e-07, "mass": 25.34776623980572, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 6, "repaired": false, "ok": true, "A": -11.866264842133466, "B": -0.5495653280419468, "vol": 11.866264842133447, "bbox": 2.352941203967288e-07, "mass": 11.866264842133466, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 7, "repaired": false, "ok": true, "A": -5.3581300888954235, "B": -0.7671577383245418, "vol": 5.3581300888954235, "bbox": 2.352941203967288e-07, "mass": 5.3581300888954155, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 4, "repaired": false, "ok": true, "A": -7.885016378490094, "B": -0.6631331936901131, "vol": 7.885016378490094, "bbox": 2.352941203967288e-07, "mass": 7.885016378490092, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 5, "repaired": true, "ok": true, "A": -2.6406012366798053, "B": -0.6071549589514732, "vol": 2.6406012366797937, "bbox": 2.352941203967288e-07, "mass": 2.6406012366798053, "passA": true}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 10, "repaired": false, "ok": true, "A": -8.146566462443744, "B": -0.4656899266883344, "vol": 8.146566462443744, "bbox": 2.352941203967288e-07, "mass": 8.146566462443738, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 9, "repaired": false, "ok": true, "A": -6.726663779957227, "B": -0.608746827069332, "vol": 6.726663779957227, "bbox": 2.352941203967288e-07, "mass": 6.726663779957224, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 11, "repaired": false, "ok": true, "A": -1.8302058683521958, "B": -0.6074642604441947, "vol": 1.8302058683521958, "bbox": 2.352941203967288e-07, "mass": 1.830205868352185, "passA": true}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 12, "repaired": false, "ok": true, "A": -4.977297317024611, "B": -0.4316802899580013, "vol": 4.977297317024611, "bbox": 2.352941203967288e-07, "mass": 4.9772973170246075, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 13, "repaired": false, "ok": true, "A": -1.9819556490955987, "B": -0.619338455838329, "vol": 1.9819556490955896, "bbox": 2.352941203967288e-07, "mass": 1.9819556490955987, "passA": true}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 14, "repaired": false, "ok": true, "A": -4.612190084783372, "B": -0.616021732688369, "vol": 4.612190084783372, "bbox": 0.003446706358378084, "mass": 4.612190084783364, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 8, "repaired": true, "ok": true, "A": -11.11741340548874, "B": -0.6230120424441337, "vol": 11.11741340548874, "bbox": 2.352941203967288e-07, "mass": 11.117413405488733, "passA": false}
+{"task": "5a29540e-7d59-6294-7f84-4f5fd5003485", "title": "Stepped Cylindrical Multi-Bore Manifold Block", "i": 15, "repaired": false, "ok": true, "A": -0.1924164627845406, "B": -0.6884349573034317, "vol": 0.19241646278453445, "bbox": 2.352941203967288e-07, "mass": 0.1924164627845406, "passA": true}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 1, "repaired": false, "ok": true, "A": -36.26373670329671, "B": -3.834286662290281, "vol": 0.9462163249008784, "bbox": 36.26373670329671, "mass": 0.9462163249008834, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 6, "repaired": false, "ok": true, "A": -36.26373670329671, "B": -1.0434495975379947, "vol": 5.926326718074364, "bbox": 36.26373670329671, "mass": 5.9263267180743675, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 7, "repaired": true, "ok": true, "A": -36.26373670329671, "B": -0.6252983823443726, "vol": 4.180698713440704, "bbox": 36.26373670329671, "mass": 4.18069871344071, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 2, "repaired": true, "ok": true, "A": -36.26373670329671, "B": -2.5888829894692, "vol": 2.2839443368344683, "bbox": 36.26373670329671, "mass": 2.2839443368344656, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 3, "repaired": true, "ok": true, "A": -36.26373670329671, "B": -0.33707745639399755, "vol": 2.8729113460298152, "bbox": 36.26373670329671, "mass": 2.8729113460298232, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 5, "repaired": true, "ok": true, "A": -36.26373670329672, "B": -0.33942174752957155, "vol": 5.195394482569874, "bbox": 36.26373670329672, "mass": 5.195394482569879, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 0, "repaired": true, "ok": true, "A": -42.741935161290314, "B": -1.2909759054259808, "vol": 9.739351246543606, "bbox": 42.741935161290314, "mass": 9.7393512465436, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 9, "repaired": false, "ok": true, "A": -36.26373670329671, "B": -4.201630998449882, "vol": 25.764741115784553, "bbox": 36.26373670329671, "mass": 25.764741115784553, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 4, "repaired": true, "ok": true, "A": -36.26373670329671, "B": -2.7899703860310345, "vol": 5.410375553419703, "bbox": 36.26373670329671, "mass": 5.410375553419714, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 8, "repaired": true, "ok": true, "A": -36.26373670329671, "B": -0.902789982778221, "vol": 13.16427091463918, "bbox": 36.26373670329671, "mass": 13.164270914639184, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 13, "repaired": false, "ok": true, "A": -36.26373670329672, "B": -0.8974050135398305, "vol": 2.8729113460283333, "bbox": 36.26373670329672, "mass": 2.872911346028343, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 11, "repaired": false, "ok": true, "A": -36.26373670329671, "B": -3.5177130124023055, "vol": 18.065171125238656, "bbox": 36.26373670329671, "mass": 18.065171125238663, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 15, "repaired": false, "ok": true, "A": -36.26373670329672, "B": -0.7865516784444143, "vol": 2.8729113460283333, "bbox": 36.26373670329672, "mass": 2.872911346028343, "passA": false}
+{"task": "e641f9b1-f3e0-14b6-2f53-2c6af3bd035c", "title": "Triangular Multi-Bore Corner Bracket", "i": 10, "repaired": true, "ok": true, "A": -40.786749896480345, "B": -5.045148947638061, "vol": 27.012672041315245, "bbox": 40.786749896480345, "mass": 27.01267204131525, "passA": false}

@@ -1,0 +1,94 @@
+{
+ "n": 150,
+ "runtime_s": 5664,
+ "errors": 0,
+ "median_shape": 0.01588541590666539,
+ "p95_shape": 0.33672109615623713,
+ "max_shape": 2.5196379110243154,
+ "n_correct": 145,
+ "n_wrong": 5,
+ "bbox_pass": 21,
+ "false_reject": 125,
+ "false_reject_pct": 86.20689655172413,
+ "vol_pass": 149,
+ "false_accept": 4,
+ "false_accept_pct": 2.684563758389262,
+ "degenerate": 30,
+ "diff_topology": 148,
+ "corr_area": 0.4781149145118757,
+ "corr_moment": 0.5321527599293173,
+ "hist": [
+  {
+   "lo": 0,
+   "hi": 0.001,
+   "n": 36
+  },
+  {
+   "lo": 0.001,
+   "hi": 0.01,
+   "n": 31
+  },
+  {
+   "lo": 0.01,
+   "hi": 0.1,
+   "n": 55
+  },
+  {
+   "lo": 0.1,
+   "hi": 0.5,
+   "n": 23
+  },
+  {
+   "lo": 0.5,
+   "hi": 1,
+   "n": 2
+  },
+  {
+   "lo": 1,
+   "hi": 3,
+   "n": 3
+  }
+ ],
+ "fa": [
+  {
+   "id": "8768bd63",
+   "title": "Stepped Bore Pedestal Bracket",
+   "vol": 2.8627184584623233,
+   "area": 0.9758399300631185,
+   "moment": 4.694681390980204,
+   "shape": 2.5196379110243154,
+   "fr": 94,
+   "fs": 72
+  },
+  {
+   "id": "21384c65",
+   "title": "Angled Corner Weldment Frame",
+   "vol": 0.17552405838117766,
+   "area": 42.86753521673635,
+   "moment": 9.403940597711244,
+   "shape": 1.5445534966904029,
+   "fr": 159,
+   "fs": 72
+  },
+  {
+   "id": "0d6ddabd",
+   "title": "Angled Top Gusseted Mounting Bracket",
+   "vol": 2.230319378459658,
+   "area": 1.735405770137511,
+   "moment": 4.521990902391241,
+   "shape": 1.3060387780233276,
+   "fr": 53,
+   "fs": 21
+  },
+  {
+   "id": "6356eb1b",
+   "title": "Rectangular U-Channel Frame Panel 120mm",
+   "vol": 2.1890522231356533e-13,
+   "area": 4.053527093751508e-14,
+   "moment": 0.0001804789937675265,
+   "shape": 0.5893512515361726,
+   "fr": 26,
+   "fs": 20
+  }
+ ]
+}

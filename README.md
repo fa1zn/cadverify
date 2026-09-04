@@ -7,6 +7,43 @@ The corpus is 150 approved samples from a `generate-3d-from-2d` track: an engine
 drawing in, a STEP solid out, with a reference solid and an answer key giving target
 volume, bounding box, mass and centre of mass at 3% tolerance.
 
+## Auditing a delivery before it ships
+
+```bash
+cadverify audit /path/to/corpus                 # full check
+cadverify audit /path/to/corpus --no-geometry   # structural only, no OpenCascade
+cadverify audit /path/to/corpus --json out.json
+```
+
+Every check exists because a real delivery failed it. Run against the two batches
+this was built from:
+
+| | batch 1 (100 samples) | batch 2 (150 samples) |
+|---|---|---|
+| accept | 65 | 143 |
+| quarantine | 4 | 6 |
+| reject | **31** | **1** |
+| corpus-wide | 1 | 1 |
+
+The 31 rejects in batch 1 are the 30 samples that shipped labelled "approved" with
+an empty trajectory, an empty feature tree and null measurements, plus one part whose
+mass was computed at the wrong material's density. Batch 2 fixed the first and
+re-shipped the second.
+
+| check | severity | what it caught |
+|---|---|---|
+| `completeness` | reject | 30 samples with no trajectory, feature tree, or measurements |
+| `answer-key` | reject | the reference part failing its own bounding-box gate |
+| `density` | reject | mass computed at aluminium density for a steel part |
+| `index` | quarantine | folders named with an id absent from their own contents |
+| `manifest` | quarantine | declared file counts and byte totals vs the disk |
+| `duplicates` | quarantine | 70 of 150 samples re-shipped from the previous batch |
+| `precision` | note | answer keys rounded to 4 significant figures |
+| `distribution` | note | difficulty, material, unit and capture-mode composition |
+
+Exit code is 1 if anything is rejected, so it drops into CI as-is. Geometry checks
+degrade to a reported skip when OpenCascade is missing rather than silently passing.
+
 ## Write-ups
 
 Four pages, in the order they were written. The first two cover the verifier; the

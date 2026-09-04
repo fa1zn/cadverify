@@ -16,7 +16,7 @@ second two cover the selection experiment built on it.
 |---|---|
 | [Pose-Invariant CAD Verifier](https://claude.ai/code/artifact/171a2761-127c-42b3-a80a-2c788d030e84) | Design spec — the frame-dependent/invariant split, the four-stage pipeline, the design decisions and why each one is there |
 | [First Corpus Run](https://claude.ai/code/artifact/e4604fcb-8f44-4073-887b-b1df013c2180) | Measured results across all 150 pairs, including the two claims that were retracted mid-run and what replaced them |
-| [The Goodhart Curve](https://claude.ai/code/artifact/e29869b9-4ee2-4f35-9eed-ccf1962aa58d) | Experiment spec — the two rewards, the procedure, and the two kill checks that had to pass before spending anything |
+| [The Goodhart Curve](https://claude.ai/code/artifact/e29869b9-4ee2-4f35-9eed-ccf1962aa58d) | Experiment spec, preserved as written beforehand, plus a section recording where the run diverged from it — a failed kill check, a 2× cost overrun, and a partial model arm |
 | [Reward Selection Curve](https://claude.ai/code/artifact/0d9b6184-8c5f-46ba-9fec-8f26f90a2cb3) | The measured curve, both arms, with the pool composition that explains its shape |
 
 These are private by default. Sharing one requires opening it and using its share

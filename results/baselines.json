@@ -1,0 +1,1138 @@
+{
+ "identical|center-scale": [
+  {
+   "chamfer": 0.007402794178707381,
+   "fscore": 0.9977499373590579,
+   "normal_consistency": 0.910404328696351,
+   "iou": 0.37236614853195166,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.004619252259785396,
+   "fscore": 1.0,
+   "normal_consistency": 0.9036467348675536,
+   "iou": 0.3056636402939905,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.012047967738632672,
+   "fscore": 0.911372102592237,
+   "normal_consistency": 0.9209422563542262,
+   "iou": 0.2746511627906977,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.004011159998950077,
+   "fscore": 1.0,
+   "normal_consistency": 0.9549228753849289,
+   "iou": 0.6208007363092499,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.00935945851650375,
+   "fscore": 0.9782448249424993,
+   "normal_consistency": 0.9125031755445951,
+   "iou": 0.2942077060474611,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.006831214274397679,
+   "fscore": 0.999124984361316,
+   "normal_consistency": 0.9129559182627596,
+   "iou": 0.7051209904333146,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.007130478603242313,
+   "fscore": 0.9988749843574021,
+   "normal_consistency": 0.9476739906170826,
+   "iou": 0.4470890961724027,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.009286269003061749,
+   "fscore": 0.975124599410332,
+   "normal_consistency": 0.9247805514422325,
+   "iou": 0.25630875804057396,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.008542813745172207,
+   "fscore": 0.9908749842311089,
+   "normal_consistency": 0.9156971316165942,
+   "iou": 0.503448275862069,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.00760845271138777,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9368221895365503,
+   "iou": 0.48503236245954695,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.006814620285104414,
+   "fscore": 0.9993749843652283,
+   "normal_consistency": 0.9452931723352391,
+   "iou": 0.343467790487658,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.009842526227129215,
+   "fscore": 0.9687489677419354,
+   "normal_consistency": 0.9300240380603038,
+   "iou": 0.4368548876745598,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.005873692287317798,
+   "fscore": 0.9996249843691385,
+   "normal_consistency": 0.9440806371989212,
+   "iou": 0.35038969840731954,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.01192673523407672,
+   "fscore": 0.9150528616309248,
+   "normal_consistency": 0.9178518583658526,
+   "iou": 0.2109704641350211,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.011027633492618805,
+   "fscore": 0.9643736876215167,
+   "normal_consistency": 0.9104969940647589,
+   "iou": 0.4301109350237718,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.0068030978018474835,
+   "fscore": 1.0,
+   "normal_consistency": 0.9384079704073405,
+   "iou": 0.3924050632911392,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.010435349342580464,
+   "fscore": 0.9616203041726246,
+   "normal_consistency": 0.9256589176192037,
+   "iou": 0.37706756377908607,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.010337454910357133,
+   "fscore": 0.9601222497070694,
+   "normal_consistency": 0.9456716376270595,
+   "iou": 0.3853290808930125,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.008594936086434024,
+   "fscore": 0.9922423784328546,
+   "normal_consistency": 0.8785856050812313,
+   "iou": 0.34682642487046633,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.006182474787473845,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9644367546753286,
+   "iou": 0.6168014375561546,
+   "mode": "center-scale"
+  }
+ ],
+ "identical|full-align": [
+  {
+   "chamfer": 0.006821127416987963,
+   "fscore": 0.9981242329367566,
+   "normal_consistency": 0.919752837620518,
+   "iou": 0.4990682072307119,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.004297981443046991,
+   "fscore": 1.0,
+   "normal_consistency": 0.925369266259803,
+   "iou": 0.47387113140537795,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.01106419342311055,
+   "fscore": 0.9214993895822029,
+   "normal_consistency": 0.9266354273405513,
+   "iou": 0.369949494949495,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.003979869323417764,
+   "fscore": 1.0,
+   "normal_consistency": 0.955371303309543,
+   "iou": 0.6228150873965042,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00927909154063043,
+   "fscore": 0.9772407904834995,
+   "normal_consistency": 0.9156023247501314,
+   "iou": 0.4479136270790779,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006805126763908717,
+   "fscore": 0.9989999374374374,
+   "normal_consistency": 0.9113822490119414,
+   "iou": 0.7077649527806925,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006922213744582523,
+   "fscore": 0.9991246090329039,
+   "normal_consistency": 0.9485973477611185,
+   "iou": 0.5103748326639893,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00912668399180891,
+   "fscore": 0.9769997441146366,
+   "normal_consistency": 0.9266123495265401,
+   "iou": 0.39135254988913526,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.008058516860121904,
+   "fscore": 0.9919989919354839,
+   "normal_consistency": 0.9227752942768018,
+   "iou": 0.578611332801277,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007455963193740716,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9410684684676656,
+   "iou": 0.5148026315789473,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006720400159623918,
+   "fscore": 0.9993749843652283,
+   "normal_consistency": 0.9456312339228422,
+   "iou": 0.4188465174913331,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009653855883024729,
+   "fscore": 0.9693749838813668,
+   "normal_consistency": 0.9310776557435874,
+   "iou": 0.6004106776180698,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.005727478102315721,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9527628207888044,
+   "iou": 0.5502706883217324,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.010955199966833577,
+   "fscore": 0.9353207269811573,
+   "normal_consistency": 0.9296795228640276,
+   "iou": 0.3705402650356779,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009264076400648559,
+   "fscore": 0.9736249839517268,
+   "normal_consistency": 0.9314167830545681,
+   "iou": 0.6038882138517618,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006207067717859795,
+   "fscore": 1.0,
+   "normal_consistency": 0.9510387701602345,
+   "iou": 0.5477145148356054,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00982070681863809,
+   "fscore": 0.9653745953644957,
+   "normal_consistency": 0.9325456871944493,
+   "iou": 0.4485645933014354,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009784278781944666,
+   "fscore": 0.9666028708133971,
+   "normal_consistency": 0.9481208222525204,
+   "iou": 0.4452510586811857,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007947708595089798,
+   "fscore": 0.9944999371543489,
+   "normal_consistency": 0.8884447247907111,
+   "iou": 0.38787262872628725,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006159488836791389,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9660617546753286,
+   "iou": 0.5511044552602021,
+   "mode": "full-align"
+  }
+ ],
+ "rotated|center-scale": [
+  {
+   "chamfer": 0.10603249694200016,
+   "fscore": 0.11097972972972972,
+   "normal_consistency": 0.573511555412804,
+   "iou": 0.03713646532438479,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.1570493513640669,
+   "fscore": 0.0020526315789473684,
+   "normal_consistency": 0.6038522758070737,
+   "iou": 0.0,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.056747919191311176,
+   "fscore": 0.20974985110184635,
+   "normal_consistency": 0.5466264155529381,
+   "iou": 0.09920182440136831,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.12482853695653645,
+   "fscore": 0.07481469115191987,
+   "normal_consistency": 0.6096206637024016,
+   "iou": 0.02717391304347826,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06791506958052612,
+   "fscore": 0.18889292795769996,
+   "normal_consistency": 0.5564517830734013,
+   "iou": 0.08180583842498303,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08434065424202836,
+   "fscore": 0.17625123849964616,
+   "normal_consistency": 0.604136300451415,
+   "iou": 0.06953339432753888,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09849630783866187,
+   "fscore": 0.2052487819732034,
+   "normal_consistency": 0.5404752628196072,
+   "iou": 0.05824904080920823,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06231739016010779,
+   "fscore": 0.19567816091954024,
+   "normal_consistency": 0.5708312584963011,
+   "iou": 0.07697082557417753,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.05443211063291879,
+   "fscore": 0.2543081081081081,
+   "normal_consistency": 0.594920123879936,
+   "iou": 0.103690036900369,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.12173547958549516,
+   "fscore": 0.09271698113207547,
+   "normal_consistency": 0.6387183982676539,
+   "iou": 0.025066666666666668,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09899364978339789,
+   "fscore": 0.11379781420765027,
+   "normal_consistency": 0.5847982338305939,
+   "iou": 0.04884318766066838,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06527897494828906,
+   "fscore": 0.19375,
+   "normal_consistency": 0.5393583422326952,
+   "iou": 0.0883403702500812,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.14482984527552384,
+   "fscore": 0.05886919831223629,
+   "normal_consistency": 0.6272173457950582,
+   "iou": 0.022686025408348458,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.07500028473229489,
+   "fscore": 0.15187489711934157,
+   "normal_consistency": 0.5467695696477904,
+   "iou": 0.0811764705882353,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08043448865959106,
+   "fscore": 0.16646959459459462,
+   "normal_consistency": 0.5456208351863678,
+   "iou": 0.08682745825602968,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.07842696610422736,
+   "fscore": 0.18608947721179625,
+   "normal_consistency": 0.6252039576483127,
+   "iou": 0.07427937915742794,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06608273779842357,
+   "fscore": 0.19686857142857142,
+   "normal_consistency": 0.5939048795609798,
+   "iou": 0.07875404055245372,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09071441558017877,
+   "fscore": 0.1371334244080146,
+   "normal_consistency": 0.5586651170793084,
+   "iou": 0.0653101411224155,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.11490658632500564,
+   "fscore": 0.10267639902676398,
+   "normal_consistency": 0.6309688989772091,
+   "iou": 0.041025641025641026,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.056194610660608456,
+   "fscore": 0.2707279852466574,
+   "normal_consistency": 0.6472313262203959,
+   "iou": 0.09345351043643264,
+   "mode": "center-scale"
+  }
+ ],
+ "rotated|full-align": [
+  {
+   "chamfer": 0.0068549506978468535,
+   "fscore": 0.999124984361316,
+   "normal_consistency": 0.9193982072855946,
+   "iou": 0.5005594927265945,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0042775221213945305,
+   "fscore": 1.0,
+   "normal_consistency": 0.9259933814088568,
+   "iou": 0.48342682304946455,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.011088993449601752,
+   "fscore": 0.9204989136338946,
+   "normal_consistency": 0.9268941314380064,
+   "iou": 0.3739196746314184,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.003966438783071073,
+   "fscore": 1.0,
+   "normal_consistency": 0.9554330813515757,
+   "iou": 0.6193103448275862,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009225278690328298,
+   "fscore": 0.9757314885985139,
+   "normal_consistency": 0.9153559291734876,
+   "iou": 0.45090590298071304,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006742402383580655,
+   "fscore": 0.999,
+   "normal_consistency": 0.9100659124644352,
+   "iou": 0.7230121116377041,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00692845622438608,
+   "fscore": 0.9991246090329039,
+   "normal_consistency": 0.9493093015119987,
+   "iou": 0.5112152661533311,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0091220121151379,
+   "fscore": 0.9763742158494431,
+   "normal_consistency": 0.9296021420236538,
+   "iou": 0.3909419283134204,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.008062008392619696,
+   "fscore": 0.9916214546829699,
+   "normal_consistency": 0.9194737593290403,
+   "iou": 0.5819051414906338,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007435686603812819,
+   "fscore": 1.0,
+   "normal_consistency": 0.9414897695950857,
+   "iou": 0.5222588623248146,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006675893561519932,
+   "fscore": 0.9991248592518454,
+   "normal_consistency": 0.9446692006187025,
+   "iou": 0.42213114754098363,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00971919129063005,
+   "fscore": 0.9662334411384217,
+   "normal_consistency": 0.9294820751649462,
+   "iou": 0.5958401305057096,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.005793803653709628,
+   "fscore": 1.0,
+   "normal_consistency": 0.9513195062992978,
+   "iou": 0.5518044237485448,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.010969307635251727,
+   "fscore": 0.932214534727809,
+   "normal_consistency": 0.9312037227796464,
+   "iou": 0.35663806158505806,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009296402634842101,
+   "fscore": 0.9732497431286926,
+   "normal_consistency": 0.9307430365774243,
+   "iou": 0.5975757575757575,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006196261414922877,
+   "fscore": 1.0,
+   "normal_consistency": 0.9514357205263642,
+   "iou": 0.5423459244532803,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009696580894650161,
+   "fscore": 0.9658736896596349,
+   "normal_consistency": 0.9316153862089867,
+   "iou": 0.45290941811637675,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009817587726344449,
+   "fscore": 0.9617353782167923,
+   "normal_consistency": 0.9513744517724927,
+   "iou": 0.4547400611620795,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007899467065222508,
+   "fscore": 0.9954989954796586,
+   "normal_consistency": 0.8888459213573776,
+   "iou": 0.38370918882531135,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006174642099845652,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9647730638063323,
+   "iou": 0.5529764133283415,
+   "mode": "full-align"
+  }
+ ],
+ "submission|center-scale": [
+  {
+   "chamfer": 0.2593569263267342,
+   "fscore": 0.06346456692913385,
+   "normal_consistency": 0.2540632944133277,
+   "iou": 0.025435073627844713,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.010633742678910197,
+   "fscore": 0.9871204254780296,
+   "normal_consistency": 0.7215254698216582,
+   "iou": 0.08126822157434402,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.049489341138656884,
+   "fscore": 0.2061249241964827,
+   "normal_consistency": 0.529671355155903,
+   "iou": 0.06320441988950276,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.24409107076804595,
+   "fscore": 0.042524781341107876,
+   "normal_consistency": 0.03772627075909578,
+   "iou": 0.018442622950819672,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.036626359545915345,
+   "fscore": 0.4604987785016286,
+   "normal_consistency": 0.6430541021765805,
+   "iou": 0.08185745140388768,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08926185859832296,
+   "fscore": 0.19154664057403784,
+   "normal_consistency": 0.5565424952630645,
+   "iou": 0.09710856519367157,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.012978555890152241,
+   "fscore": 0.8587411935953421,
+   "normal_consistency": 0.6458886274930742,
+   "iou": 0.1716477122454377,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.12141364789805942,
+   "fscore": 0.14193661971830984,
+   "normal_consistency": 0.27805901509858044,
+   "iou": 0.051382211538461536,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.10360654286173335,
+   "fscore": 0.21986299033541787,
+   "normal_consistency": 0.27001254311019574,
+   "iou": 0.0829737802854298,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.015707964355209818,
+   "fscore": 0.830122722481554,
+   "normal_consistency": 0.7811707478252251,
+   "iou": 0.17347645429362882,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.10727962527842505,
+   "fscore": 0.2393718015665796,
+   "normal_consistency": 0.30496509768351493,
+   "iou": 0.042244224422442245,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.010470914325058929,
+   "fscore": 0.9619853820166321,
+   "normal_consistency": 0.9311206344287525,
+   "iou": 0.38524590163934425,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09299680951911456,
+   "fscore": 0.42601539589442816,
+   "normal_consistency": 0.39170794443197876,
+   "iou": 0.014427040395713108,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.0615184971637876,
+   "fscore": 0.2704942236598891,
+   "normal_consistency": 0.49058335428051036,
+   "iou": 0.07906869525126786,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.07926684742122692,
+   "fscore": 0.1956153354632588,
+   "normal_consistency": 0.36886016362140867,
+   "iou": 0.058271745309835137,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.0064905664492879,
+   "fscore": 0.9996249843691385,
+   "normal_consistency": 0.9478929243880353,
+   "iou": 0.4005671747607231,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08574122984473308,
+   "fscore": 0.1549741935483871,
+   "normal_consistency": 0.4126505371990581,
+   "iou": 0.058365758754863814,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.010216715557104992,
+   "fscore": 0.9618749837556855,
+   "normal_consistency": 0.9429389559613791,
+   "iou": 0.3683304647160069,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.008140130241474794,
+   "fscore": 0.9937499371069183,
+   "normal_consistency": 0.897524872398991,
+   "iou": 0.1847733105218135,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.13712047290721568,
+   "fscore": 0.13399580223880597,
+   "normal_consistency": 0.3370515495797702,
+   "iou": 0.05125148986889154,
+   "mode": "center-scale"
+  }
+ ],
+ "submission|full-align": [
+  {
+   "chamfer": 0.006903875481501842,
+   "fscore": 0.9988749843574021,
+   "normal_consistency": 0.915358386093631,
+   "iou": 0.5061498322773015,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.004388582211662457,
+   "fscore": 1.0,
+   "normal_consistency": 0.9134396274689236,
+   "iou": 0.48760330578512395,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.011292789340188522,
+   "fscore": 0.9176229396539981,
+   "normal_consistency": 0.9153367143648041,
+   "iou": 0.38203105115805547,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0040148858764309115,
+   "fscore": 1.0,
+   "normal_consistency": 0.9518690290275935,
+   "iou": 0.6051541647491947,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009368687677342403,
+   "fscore": 0.9778714048319058,
+   "normal_consistency": 0.9221078988566509,
+   "iou": 0.44215714699913017,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006877726236042339,
+   "fscore": 0.9996249843691385,
+   "normal_consistency": 0.9052193989109241,
+   "iou": 0.7168327215521761,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006969650310532935,
+   "fscore": 0.998749436795995,
+   "normal_consistency": 0.9491493732975802,
+   "iou": 0.5003335557038026,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009340617411721841,
+   "fscore": 0.9714976839938239,
+   "normal_consistency": 0.9195315608292973,
+   "iou": 0.39723374827109265,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.028964393553730833,
+   "fscore": 0.4646369015599785,
+   "normal_consistency": 0.6331064094475154,
+   "iou": 0.12703962703962704,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007361626170783654,
+   "fscore": 1.0,
+   "normal_consistency": 0.9434403683443771,
+   "iou": 0.5247195679268799,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0067672720399713695,
+   "fscore": 0.99925,
+   "normal_consistency": 0.9427333084840832,
+   "iou": 0.42537077942568635,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009794505141924021,
+   "fscore": 0.963243511549442,
+   "normal_consistency": 0.9335609446592116,
+   "iou": 0.5993431855500821,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.005779395299715918,
+   "fscore": 1.0,
+   "normal_consistency": 0.9471721793554936,
+   "iou": 0.5240292195309496,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.011117490664680617,
+   "fscore": 0.926747572160777,
+   "normal_consistency": 0.9357229053556506,
+   "iou": 0.3554033485540335,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.009221525329094225,
+   "fscore": 0.9729922276464542,
+   "normal_consistency": 0.9335680161438573,
+   "iou": 0.5993550987505039,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.006238010773174536,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9499229679610998,
+   "iou": 0.5497611464968153,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00999473280664847,
+   "fscore": 0.9581191128506197,
+   "normal_consistency": 0.9371623561450833,
+   "iou": 0.4515451545154515,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00979502363875984,
+   "fscore": 0.9626236852356836,
+   "normal_consistency": 0.9485660822976649,
+   "iou": 0.4437367303609342,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007962382608696274,
+   "fscore": 0.9946248586150559,
+   "normal_consistency": 0.9065730126751266,
+   "iou": 0.39026879891119426,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.00615223254767458,
+   "fscore": 0.9998749843730466,
+   "normal_consistency": 0.9585206872373047,
+   "iou": 0.5614567526555387,
+   "mode": "full-align"
+  }
+ ],
+ "exploit|center-scale": [
+  {
+   "chamfer": 0.06074979554785946,
+   "fscore": 0.26832481269281616,
+   "normal_consistency": 0.30269306241585003,
+   "iou": 0.05033185840707965,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.2501840517120827,
+   "fscore": 0.0,
+   "normal_consistency": 0.21614795868388376,
+   "iou": 0.0,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.037321779929951296,
+   "fscore": 0.36866655574043267,
+   "normal_consistency": 0.6144245301695859,
+   "iou": 0.08497723823975721,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.21060855611723173,
+   "fscore": 0.04167155425219942,
+   "normal_consistency": 0.0536481736553672,
+   "iou": 0.012489592006661115,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.029727962593532394,
+   "fscore": 0.38629565630944834,
+   "normal_consistency": 0.6797972176117703,
+   "iou": 0.059967585089141004,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.12193656099258042,
+   "fscore": 0.10070032751091702,
+   "normal_consistency": 0.25261399171103416,
+   "iou": 0.04684922467832398,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.032350839976671035,
+   "fscore": 0.3006004691164973,
+   "normal_consistency": 0.6714656231271781,
+   "iou": 0.031988590057049716,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06069794025111935,
+   "fscore": 0.18344309764309766,
+   "normal_consistency": 0.36133613338990966,
+   "iou": 0.038900067069081154,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.07338241639676696,
+   "fscore": 0.23243111111111112,
+   "normal_consistency": 0.4545110833978161,
+   "iou": 0.05495689655172414,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.16506577618305698,
+   "fscore": 0.0787969465648855,
+   "normal_consistency": 0.08466705804696731,
+   "iou": 0.025547445255474453,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.16834529057841036,
+   "fscore": 0.06266600397614314,
+   "normal_consistency": 0.1855346638418775,
+   "iou": 0.01915991156963891,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.06589704787919301,
+   "fscore": 0.15115592680986475,
+   "normal_consistency": 0.5875060908522933,
+   "iou": 0.047658688865764826,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.22847941090375862,
+   "fscore": 0.05215545243619489,
+   "normal_consistency": 0.039424190984333245,
+   "iou": 0.01859504132231405,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09679226712374941,
+   "fscore": 0.09745070422535212,
+   "normal_consistency": 0.33458791791557185,
+   "iou": 0.03240223463687151,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08682190630199847,
+   "fscore": 0.13789652247667514,
+   "normal_consistency": 0.3880778514939911,
+   "iou": 0.0461864406779661,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.15743178338987354,
+   "fscore": 0.09880546075085324,
+   "normal_consistency": 0.1428308383128078,
+   "iou": 0.0411275415896488,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.08217477748406016,
+   "fscore": 0.12446744412050535,
+   "normal_consistency": 0.3781047663518496,
+   "iou": 0.04004576659038902,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.024505988299015496,
+   "fscore": 0.5922327135993315,
+   "normal_consistency": 0.7180695254353687,
+   "iou": 0.044846739354042375,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.16706800920932588,
+   "fscore": 0.07846098726114649,
+   "normal_consistency": 0.11588280181179528,
+   "iou": 0.027171969967822666,
+   "mode": "center-scale"
+  },
+  {
+   "chamfer": 0.09840537386323653,
+   "fscore": 0.24626054078826765,
+   "normal_consistency": 0.4195322177070784,
+   "iou": 0.014114759128567045,
+   "mode": "center-scale"
+  }
+ ],
+ "exploit|full-align": [
+  {
+   "chamfer": 0.03676391988228373,
+   "fscore": 0.47547009391992096,
+   "normal_consistency": 0.5939133852978464,
+   "iou": 0.09674482130662418,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.03091725229061282,
+   "fscore": 0.6571564660259652,
+   "normal_consistency": 0.7851435820720825,
+   "iou": 0.03444712366517396,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.03785735961115885,
+   "fscore": 0.318833139759969,
+   "normal_consistency": 0.6248424653389355,
+   "iou": 0.0944055944055944,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.007768169271109554,
+   "fscore": 1.0,
+   "normal_consistency": 0.9168269749848603,
+   "iou": 0.03450179409329285,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.027803540957257976,
+   "fscore": 0.48257808532249874,
+   "normal_consistency": 0.6645282051372279,
+   "iou": 0.11790298020448119,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.09262715443351362,
+   "fscore": 0.06792025518341308,
+   "normal_consistency": 0.5841537108204728,
+   "iou": 0.021121251629726206,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.03212186320115657,
+   "fscore": 0.3027806022682832,
+   "normal_consistency": 0.6823533221677145,
+   "iou": 0.029300962745918795,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.02496748404853963,
+   "fscore": 0.48116781609195397,
+   "normal_consistency": 0.6374411720543578,
+   "iou": 0.07888198757763976,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0744371237981821,
+   "fscore": 0.12180931065353624,
+   "normal_consistency": 0.5657138035645509,
+   "iou": 0.03588943379402586,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.018071651009398844,
+   "fscore": 0.6662928944423723,
+   "normal_consistency": 0.828510768892537,
+   "iou": 0.020884187686465962,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.017018561996248786,
+   "fscore": 0.7257374830852503,
+   "normal_consistency": 0.6580029849901697,
+   "iou": 0.07409925220938138,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.06191998855937683,
+   "fscore": 0.1959404255319149,
+   "normal_consistency": 0.6016927182802818,
+   "iou": 0.086185967467832,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.010913063961592613,
+   "fscore": 0.9934748364368394,
+   "normal_consistency": 0.90723457658853,
+   "iou": 0.027186458066170812,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.028749436612261002,
+   "fscore": 0.5298713114754098,
+   "normal_consistency": 0.6073079527471679,
+   "iou": 0.16537087623450306,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.0756503250614787,
+   "fscore": 0.12372154280338664,
+   "normal_consistency": 0.5624118742207341,
+   "iou": 0.04817618719889883,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.039332832700179766,
+   "fscore": 0.53926674245556,
+   "normal_consistency": 0.6649184126177194,
+   "iou": 0.11805121798875702,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.04241476378501609,
+   "fscore": 0.2118857142857143,
+   "normal_consistency": 0.5924095782177321,
+   "iou": 0.054595862657283,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.023989642381106673,
+   "fscore": 0.5277782333645736,
+   "normal_consistency": 0.7211839091981302,
+   "iou": 0.10874861572535992,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.014648517748334795,
+   "fscore": 0.8348165322580646,
+   "normal_consistency": 0.7389572921384646,
+   "iou": 0.26567809700339823,
+   "mode": "full-align"
+  },
+  {
+   "chamfer": 0.05731568069837284,
+   "fscore": 0.3217305919886565,
+   "normal_consistency": 0.5677872667654451,
+   "iou": 0.012780460096563476,
+   "mode": "full-align"
+  }
+ ]
+}

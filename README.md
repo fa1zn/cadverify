@@ -107,6 +107,62 @@ At `n=1` both arms are identical by construction — one candidate is selected
 regardless of the reward — and they agree to within noise. That is the harness
 sanity check. From `n=2` the confidence intervals separate and never re-cross.
 
+## Comparison against standard metrics
+
+**None of the method here is novel.** Principal-axis alignment with ICP refinement is
+textbook shape registration, and the CAD-generation literature already reports
+Chamfer distance, F-score at a threshold, volumetric IoU and normal consistency
+against a ground-truth reference. Some benchmarks brute-force dozens of azimuths to
+handle rotation, and centre-and-scale normalisation is documented preprocessing.
+
+So the useful question is not whether this verifier is new. It is whether the
+*standard* approach, applied the standard way, would have caught what the shipped
+key missed. It would not.
+
+Four metrics, 20 parts, four submission types, under two preprocessing regimes:
+
+**center-scale** — translate to centroid, scale to unit bounding box, compare. What
+most benchmarks document. No rotation handling.
+
+| submission | Chamfer ↓ | F@0.02 ↑ | Normal ↑ | IoU ↑ |
+|---|---|---|---|---|
+| identical | 0.00808 | 0.995 | 0.925 | 0.381 |
+| **correct, rotated** | 0.08239 | **0.171** | 0.589 | 0.072 |
+| real submission | 0.07039 | 0.255 | 0.510 | 0.080 |
+| **degenerate exploit** | 0.09181 | **0.131** | 0.348 | 0.039 |
+
+**full-align** — the same, plus principal-axis alignment, octahedral search and ICP.
+
+| submission | Chamfer ↓ | F@0.02 ↑ | Normal ↑ | IoU ↑ |
+|---|---|---|---|---|
+| identical | 0.00770 | 0.996 | 0.931 | 0.505 |
+| **correct, rotated** | 0.00767 | **0.997** | 0.931 | 0.506 |
+| real submission | 0.00766 | 0.997 | 0.935 | 0.494 |
+| **degenerate exploit** | 0.03152 | **0.482** | 0.648 | 0.064 |
+
+Read the two bold rows in each table. Under standard preprocessing a provably correct
+answer scores 0.171 and a hollow box scores 0.131 — a gap of 0.040, which is noise.
+With alignment the same pair separates to 0.997 and 0.482, a gap of 0.515.
+
+> **The discriminative gap is 13× wider with alignment. The metrics were never the
+> problem; the preprocessing was.**
+
+That is the honest form of this project's contribution. The standard metrics work
+fine — Chamfer, F-score and normal consistency all reject the exploit cleanly once
+the shapes are in a common frame. What fails is the preprocessing that benchmarks
+commonly document, and the failure mode is not "slightly worse scores" but the
+collapse of the distinction between a correct answer and a degenerate one.
+
+Two caveats on the table. The IoU column is weak as implemented — surface-occupancy
+IoU on a 28³ grid from independent point samplings gives only 0.381 for a shape
+against *itself*, so treat it as illustrative rather than a fair test of volumetric
+IoU. And 20 parts is a small sample; the effect is large enough to survive that, but
+the individual figures are not precise.
+
+```bash
+python -c "from cadverify.baselines import compare; ..."   # see results/baselines.json
+```
+
 ## The mental model
 
 Every measurement is taken in a coordinate frame, and a submission is the same shape

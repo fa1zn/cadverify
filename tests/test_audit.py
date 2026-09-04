@@ -146,3 +146,45 @@ def test_verdict_severity_is_the_worst_finding(tmp_path):
                   drawing=b"%PDF-a")
     c, findings = audit(root, geometry=False)
     assert verdicts(c, findings)["aaaa0001-0000-0000-0000-000000000000"] == REJECT
+
+
+# --------------------------------------------------------------------------
+# baseline comparison — pinned so the headline claim cannot silently rot
+# --------------------------------------------------------------------------
+
+def test_standard_preprocessing_cannot_separate_correct_from_degenerate(corpus):
+    """The comparison-against-prior-art claim, as a regression test.
+
+    Centre-and-scale preprocessing — what most benchmarks document — scores a
+    correct-but-rotated part about the same as a hollow box. Alignment is what
+    restores the distinction, not a better metric.
+    """
+    import numpy as np
+    from cadverify.baselines import compare
+    from cadverify.exploit import POLICIES
+    from cadverify.invariants import load_step, transformed
+    from OCP.gp import gp_Ax1, gp_Dir, gp_Pnt, gp_Trsf
+
+    from .conftest import answer_key, ref_step
+
+    def rotate(s):
+        t = gp_Trsf()
+        t.SetRotation(gp_Ax1(gp_Pnt(0, 0, 0), gp_Dir(0.37, 0.61, 0.70)), 1.05)
+        return transformed(s, t)
+
+    rng = np.random.default_rng(42)
+    naive, aligned = [], []
+    for path in [corpus[i] for i in rng.choice(len(corpus), 4, replace=False)]:
+        ref = load_step(ref_step(path))
+        good, bad = rotate(ref), POLICIES["pocketed_block"](answer_key(path))
+        naive.append(compare(ref, good, "center-scale")["fscore"]
+                     - compare(ref, bad, "center-scale")["fscore"])
+        aligned.append(compare(ref, good, "full-align")["fscore"]
+                       - compare(ref, bad, "full-align")["fscore"])
+
+    naive_gap, aligned_gap = float(np.median(naive)), float(np.median(aligned))
+    assert aligned_gap > 0.3, "alignment should separate correct from degenerate"
+    assert naive_gap < 0.2, "centre-scale should NOT separate them"
+    assert aligned_gap > naive_gap * 3, (
+        f"alignment widened the gap only {aligned_gap / max(naive_gap, 1e-9):.1f}x"
+    )
